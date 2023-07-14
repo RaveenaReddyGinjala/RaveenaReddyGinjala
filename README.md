@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="100" height=300pt/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/">
