@@ -1,24 +1,35 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="100" height=300pt/>
+  <img
+    src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif"
+    width="350pt"
+    height="400pt"
+  />
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/raveenaginjala-usf/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn Badge"
+      />
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Asrst&style=flat-square&color=blue" alt=""/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Asrst&style=flat-square&color=blue"
+    alt=""
+  />
   <h1>
     Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     -  I’m Raveena
+    <img
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+      width="30px"
+    />
+    - I’m Raveena
   </h1>
 </div>
 
----
+### :woman_technologist: About Me :
 
-### :man_technologist: About Me :
-
-I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Science in Business Analytics and Information Systems from University of South Florida.
+I am a Coding geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Computer Engineering from University of South Florida.
 
 - :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, Machine Learning. 4 years of multifaceted work experience as a Data Scientist, Data Analyst. Expertise in the field of Machine Learning and Data Science, building predictive models, fine tuning them and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
 
@@ -32,22 +43,20 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://assets.blogs.bsu.edu/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1536x864.png" title="Tableau"  alt="Tableau" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app-930x620.jpg" title="Power BI"  alt="Power BI" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="R" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="TensorFlow" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  fill="red" title="Git" alt="Git" width="60" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="50"/>&nbsp;
   
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GopiChandYenikapalli)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaveenaReddyGinjala)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopiChandYenikapalli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaveenaReddyGinjala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
@@ -59,6 +68,6 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 
 <!---
-GopiChandYenikapalli/GopiChandYenikapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RaveenaReddyGinjala/RaveenaReddyGinjala/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
