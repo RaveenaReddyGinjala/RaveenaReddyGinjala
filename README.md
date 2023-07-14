@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://giphy.com/stickers/platzi-it-code-developer-YnS7j9pwnECXLMrI4t" width="100"/>
+  <img src="https://giphy.com/stickers/platzi-it-code-developer-YnS7j9pwnECXLMrI4t/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
