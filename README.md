@@ -31,11 +31,11 @@
 
 I am a Coding geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Computer Engineering from University of South Florida.
 
-- :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, Machine Learning. 4 years of multifaceted work experience as a Data Scientist, Data Analyst. Expertise in the field of Machine Learning and Data Science, building predictive models, fine tuning them and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
+- :telescope: 
 
-- :zap: In my free time, I contribute to open-source and read tech articles.
+- :zap: In my free time, I cook and watch movies.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: .
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30" ></a> 
 ---
