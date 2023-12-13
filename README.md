@@ -31,11 +31,11 @@
 
 I am a Coding geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Computer Engineering from University of South Florida.
 
-- :telescope: 
+- :telescope: I am currently working as Research Assistant at USF,Tampa
 
 - :zap: In my free time, I cook and watch movies.
 
-- :seedling: .
+- :seedling: 
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30" ></a> 
 ---
