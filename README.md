@@ -31,8 +31,7 @@
 
 I am a Coding geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Computer Engineering from University of South Florida.
 
-- :telescope: I am currently working as Research Assistant at USF,Tampa
-
+- :telescope: I am currently pursuing my Master's in Computer Engineering at the University of South Florida in Tampa. With a passion for coding and over 3 years of hands-on experience as a React Developer, I am eager to channel my skills into crafting dynamic and visually appealing websites that prioritize user-friendly experiences. I thrive on challenging tasks and am equipped with both technical expertise and managerial acumen to contribute significantly to a company's success.
 - :zap: In my free time, I cook and watch movies.
 
 - :seedling: 
