@@ -31,7 +31,7 @@
 
 I am a Coding geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Computer Engineering from University of South Florida.
 
-- :telescope: I am currently pursuing my Master's in Computer Engineering at the University of South Florida in Tampa. With a passion for coding and over 3 years of hands-on experience as a React Developer, I am eager to channel my skills into crafting dynamic and visually appealing websites that prioritize user-friendly experiences. I thrive on challenging tasks and am equipped with both technical expertise and managerial acumen to contribute significantly to a company's success.
+- :telescope: As a Master's student in Computer Engineering at the University of South Florida in Tampa, I am actively engaged in cutting-edge research as a Research Assistant.  With a passion for coding and over 3 years of hands-on experience as a React Developer, I am eager to channel my skills into crafting dynamic and visually appealing websites that prioritize user-friendly experiences. I thrive on challenging tasks and am equipped with both technical expertise and managerial acumen to contribute significantly to a company's success.
 - :zap: In my free time, I cook and watch movies.
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30" ></a> 
 ---
